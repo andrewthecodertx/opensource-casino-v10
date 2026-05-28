@@ -12,7 +12,6 @@ https://discordapp.com/channels/982859564795957268/1103430463357452428/126619291
 5- Simplified template, removed side bar and added much quicker load times, pagination to games and improved freezing search by adding wait time 
 6- Dozens of code fixes and speed ups 
 
-
 <p><span style="color:#ff0000"><strong>V10.1 January 2024 release adds Laravel 10 and PHP 8.1+ support and expands Shops Multi Tier Features</strong></span></p>
 
 <p><span style="color:#ff0000"><strong>v10.1 now supports SHOPS [aka agents/multi vendors]&nbsp;</strong></span></p>
@@ -144,3 +143,11 @@ Visual Edits : To change Sliders Text, and footer notes / terms and conditions. 
 <p>URL TROUBLESHOOTING 404 ERROR MAKE SURE YOUR HTACCESS WAS GENERATED, CORRECTLY AND DID HAVE PROPER DATA, OR MANUALLY COPY PASTE PROVIDED HTACCESS&nbsp;</p>
 
 <p>&nbsp;</p>
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
